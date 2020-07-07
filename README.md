@@ -1,2 +1,0 @@
-# informatica-pierson
-first website
